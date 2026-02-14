@@ -1,6 +1,6 @@
 import requests  # Library to make HTTP requests to APIs
 
-API_KEY = "277af9586113d269e23ac7fd9bac494c"  # Your unique key to authenticate with OpenWeatherMap
+API_KEY = "Insert API Key"  # Your unique key to authenticate with OpenWeatherMap
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"  # The endpoint we're hitting
 
 
